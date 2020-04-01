@@ -1,0 +1,9 @@
+
+${AnsiColor.BRIGHT_RED}  ___ _    _       _    __  __ ___ 
+${AnsiColor.BRIGHT_RED} / __| |_ (_)___  | |  |  \/  / __|
+${AnsiColor.BRIGHT_RED} \__ \ ' \| / _ \ | |__| |\/| \__ \
+${AnsiColor.BRIGHT_RED} |___/_||_|_\___/ |____|_|  |_|___/ ${AnsiColor.BRIGHT_WHITE}${application.formatted-version}
+
+${AnsiColor.BRIGHT_WHITE}:: Copyright (C) 2020, Viglet Team <opensource@viglet.com> 
+
+${AnsiColor.BRIGHT_WHITE}:: Built with Spring Boot :: ${spring-boot.version}
