@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/twitter/follow/shioharacms.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=shiocms)
+[![Twitter](https://img.shields.io/twitter/follow/shiocms.svg?style=social&label=Follow)](https://twitter.com/intent/follow?screen_name=shiocms)
 
 **Viglet Shio LMS** - Manage, document, track, create reports and deliver educational courses.
 
@@ -20,7 +20,7 @@ $ cd shio-lms
 
 ### 1. Runtime
 
-Use NPM and Gradle to execute Shiohara Stock.
+Use NPM and Gradle to execute Shio LMS.
 
 ```shell
 $ ng serve --open
@@ -29,7 +29,7 @@ $ ./gradlew bootrun
 
 ### 2. Build
 
-Use NPM and Gradle to build Shiohara Stock.
+Use NPM and Gradle to build Shio LMS.
 
 ```shell
 $ ng build --prod
