@@ -18,9 +18,17 @@ $ cd shio-lms
 
 ## Deploy 
 
+### 1. Install Mudles
+
+Use the NPM to install the modules.
+
+```shell
+$ npm install
+```
+
 ### 1. Runtime
 
-Use NPM and Gradle to execute Shio LMS.
+Use Ng and Gradle to execute Shio LMS.
 
 ```shell
 $ ng serve --open
@@ -29,7 +37,7 @@ $ ./gradlew bootrun
 
 ### 2. Build
 
-Use NPM and Gradle to build Shio LMS.
+Use Ng and Gradle to build Shio LMS.
 
 ```shell
 $ ng build --prod
